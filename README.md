@@ -1,5 +1,5 @@
 # branding
-Non-free, open-source branding used by Polyphony for reference use only.
+Non-free branding used by Polyphony for reference use only.
 
 ## Copyright
 
